@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julliana Sousa</h1>
 <h3 align="center">A developer constantly flourishing</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **jullianasantossousa@hotmail.com**
 
