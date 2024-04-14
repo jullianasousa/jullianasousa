@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **jullianasantossousa@hotmail.com**
+- 📫 How to reach me **jullianasantossousa@gmail.com**
 
 - ⚡ Fun fact **I've lived in 7 different cities**
 
